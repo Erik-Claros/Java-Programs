@@ -1,4 +1,5 @@
-#READ ME for Jump Table
+# Section: Jump Table
+Description: 
 
 In this program, I created a Jump Table data structure that visualized a Stack, Queue, and List. In the program, a menu prompts allowing the user to manipulate the three data structures. 
 After any changes have been made, the changes will be saved and stored until requested again. The Jump Table creates three different states for all three data structures. 
